@@ -1,4 +1,4 @@
-# 🔄 GitSync — Unified GitHub/GitLab Repo Manager with Code Analytics
+# 🔄 GitSync — Unified GitHub/GitLab Repo Manager with Code Analytics 
 
 **GitSync** is a powerful and intuitive platform designed for developers who want better control, visibility, and organization of their repositories. By connecting your **GitHub** or **GitLab** account, GitSync provides a clean, unified dashboard to view and manage all your projects — complete with useful statistics like total lines of code per repository.
 
